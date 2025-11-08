@@ -1,0 +1,5 @@
+{
+  "name": "Mindful Echo Chat",
+  "description": "A compassionate mental health chatbot that analyzes your emotions and provides supportive responses using the Gemini API.",
+  "requestFramePermissions": []
+}
